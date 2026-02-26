@@ -17,7 +17,7 @@ http://localhost:8080/h2-console
 
 First api POST
 use POSTMAN
-localhost:8080/addRecipe
+http://localhost:8080/addRecipe
 
 Second api GET
 
