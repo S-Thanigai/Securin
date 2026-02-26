@@ -8,6 +8,8 @@ To run the backend
 
 java -jar target\backend-0.0.1-SNAPSHOT.jar
 
+Or directly the BackendApplication.java
+
 The backend will run on 
 
 http://localhost:8080/
